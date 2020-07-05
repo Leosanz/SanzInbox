@@ -15,9 +15,9 @@
         "mainFont": "Rubik",
         "display1Font": "Orbitron",
         "display1Size": 4.25,
-        "display2Font": "Ubuntu",
+        "display2Font": "Orbitron",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Ubuntu",
         "display5Size": 1.5,
         "display7Font": "Rubik",
         "display7Size": 1,
@@ -125,7 +125,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676",
+              "color": "#efefef",
               "font-weight": "300"
             },
             ".number-wrap": {
